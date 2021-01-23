@@ -1,4 +1,47 @@
-
 body {
+  font-family: 'Josefin Slab', serif;
   text-align: center;
+  font-size: 1.2rem;
+}
+
+hr {
+  margin: auto auto;
+  width: 20%;
+  border-top: 5px dotted grey;
+  background-color: inherit;
+}
+
+.header-container {
+  margin: 3% auto;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------
+SECTIONS (START)
+--------------------------------------------------------------------------------------------------------------------------------------------- */
+.section-div-container{
+margin: 3% auto;
+}
+
+.section-container{
+  margin: 2% auto;
+}
+
+.section-div-container-grey{
+  background-color: #f6f6f6;
+}
+
+.section-picture-div{
+
+}
+
+.jdesign-img{
+  width: 100%;
+  border-radius: 40px;
+  border: 1px solid #374045;
+}
+.section-writeup-right{
+  text-align: left;
+}
+.section-writeup-left{
+  text-align: right;
 }
