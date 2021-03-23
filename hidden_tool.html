@@ -8,24 +8,24 @@
   <title></title>
 </head>
 
-<body>
-
-  <div class="hidden_tool_main_div">
-    <h1>BATTER INGREDIENT CALCULATOR</h1>
-    <h2>How many batches of batter?</h2>
-    <input type="text" class="form-control" id="batchInput" type="number" aria-label="Sizing example input" aria-describedby="" autofocus>
-    <button type="button" id="calculate" class="btn btn-lg btn-primary calculate_button">Calculate</button>
-  </div>
-
+<body class="tool_body">
   <div class="calculated_output">
-    <p><u>INGREDIENT</u></p>
-    <p>[ Butter ] : <span id="butter">0</span> g</p>
-    <p>[ Flour ] : <span id="flour">0</span> g</p>
-    <p>[ Sugar ] : <span id="sugar">0</span> g</p>
-    <p>[ Egg ] : <span id="egg">0</span> Eggs</p>
-    <p>[ Salt ] : <span id="salt">0</span> teaspoon</p>
+    <div class="output_div">
+      <h1 class="output_heading"><u>INGREDIENT</u></h1>
+      <p>[ Butter ] : <span id="butter">0</span> g</p>
+      <p>[ Flour ] : <span id="flour">0</span> g</p>
+      <p>[ Sugar ] : <span id="sugar">0</span> g</p>
+      <p>[ Egg ] : <span id="egg">0</span> Eggs</p>
+      <p>[ Salt ] : <span id="salt">0</span> teaspoon</p>
 
+    </div>
 
+    <div class="hidden_tool_main_div">
+      <h1 class="tool_heading">BATTER INGREDIENT<br>CALCULATOR</h1>
+      <h2 class="tool_sub_heading">How many batches of batter?</h2>
+      <input type="text" class="form-control" id="batchInput" type="number" aria-label="Sizing example input" aria-describedby="" autofocus>
+      <button type="button" id="calculate" class="btn btn-lg btn-primary calculate_button">Calculate</button>
+    </div>
 
 
   </div>
