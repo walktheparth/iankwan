@@ -73,7 +73,10 @@ HIDDEN TOOL STYLE
     padding-top: 10%;
     padding-bottom: 10%;
   }
-
+  .output_heading{
+    font-size: 4.5rem;
+  }
+  
   .form-control {
     font-size: 4rem;
     margin: 5% auto;
