@@ -43,6 +43,5 @@ $(document).ready(function() {
     $("#sugarWeight").html(sugar_net_weight);
     $("#eggWeight").html(egg_net_weight);
 
-    alert("Calculated!")
   });
 });
