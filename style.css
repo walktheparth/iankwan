@@ -70,13 +70,13 @@ HIDDEN TOOL STYLE
   }
 
   .output_div {
-    padding-top: 10%;
+    padding-top: 5%;
     padding-bottom: 10%;
   }
   .output_heading{
     font-size: 4.5rem;
   }
-  
+
   .form-control {
     font-size: 4rem;
     margin: 5% auto;
@@ -92,7 +92,15 @@ HIDDEN TOOL STYLE
   }
 
   .calculated_output {
-    padding-top: 10%;
+    padding-top: 7%;
+  }
+
+  .main_answer {
     font-size: 4rem;
+  }
+
+  .sub_answer {
+    font-size: 3.4rem;
+    color: #bbbbbb;
   }
 }
