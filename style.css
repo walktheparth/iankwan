@@ -62,8 +62,8 @@ HIDDEN TOOL STYLE
     margin: 0 auto;
     text-align: center;
   }
-  .tool_heading{
-    font-size: 4rem;
+  .tool_heading {
+    font-size: 4.5rem;
   }
   .tool_sub_heading {
     font-size: 3rem;
@@ -73,6 +73,7 @@ HIDDEN TOOL STYLE
     padding-top: 5%;
     padding-bottom: 10%;
   }
+
   .output_heading{
     font-size: 4.5rem;
   }
