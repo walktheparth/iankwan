@@ -57,8 +57,8 @@ HIDDEN TOOL STYLE
 @media only screen and (min-width: 600px) {
   .hidden_tool_main_div {
     background-color: #78c4d4;
-    padding-top: 8%;
-    padding-bottom: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     margin: 0 auto;
     text-align: center;
   }
