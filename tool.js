@@ -5,7 +5,7 @@ $(document).ready(function() {
     // One batch batter receipe
     var butter = 165;
     var flour = 165;
-    var sugar = 75;
+    var sugar = 70;
     var egg = 4;
     var salt = 0.25;
 
